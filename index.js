@@ -82,7 +82,7 @@ if(year % 400 === 0){
     console.log("this is not leap year");
 }
 //grading system
- let grade = -70;
+ let grade = 100;
  if(grade >= 80 && grade <=100){
      console.log("A+");
  }else if(grade < 0 && grade < 100){
@@ -90,3 +90,16 @@ if(year % 400 === 0){
  }else {
     console.log("fail");
 }
+//very good
+const sonkha = 0;
+switch(true){
+    case sonkha > 0:
+    console.log("this is positive");
+    break;
+    case sonkha === 0:
+    console.log("this is zero");
+    break;
+    case sonkha < 0:
+    console.log("this is negetive");
+    break;
+//great
