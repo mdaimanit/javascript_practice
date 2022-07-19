@@ -102,4 +102,5 @@ switch(true){
     case sonkha < 0:
     console.log("this is negetive");
     break;
+}
 //great
