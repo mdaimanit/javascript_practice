@@ -104,3 +104,15 @@ switch(true){
     break;
 }
 //great
+const sonkhaa = 0;
+switch(true){
+    case sonkhaa > 0:
+    console.log("this is positive");
+    break;
+    case sonkhaa === 0:
+    console.log("this is zero");
+    break;
+    case sonkhaa < 0:
+    console.log("this is negetive");
+    break;
+}
